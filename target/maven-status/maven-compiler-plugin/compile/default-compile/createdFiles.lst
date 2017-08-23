@@ -1,0 +1,4 @@
+core\Input_Console.class
+core\Input_Console_Password.class
+core\Input_ISR.class
+core\Input_Scanner.class
